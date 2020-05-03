@@ -15,7 +15,10 @@ Fault Tolerance:
     
     6. copies of the data are stored with followers
     
-        ![Leader Follower](images/kafka/leader-follower.png)
+       
+        <div align="center">
+            <img src="images/kafka/leader-follower.png" width="400px"</img> 
+        </div>
     
 
         
